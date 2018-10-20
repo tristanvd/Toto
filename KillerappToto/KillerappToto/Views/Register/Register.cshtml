@@ -1,0 +1,37 @@
+﻿@using KillerappToto.ViewModels.Account
+@model KillerappToto.ViewModels.Account.RegisterViewModel
+
+@{
+	ViewData["Title"] = "Register";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Register</h2>
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-3"></div>
+		<div class="col-lg-6 text-center">
+			<h1>Register</h1>
+		</div>
+		<div class="col-lg-3"></div>
+	</div>
+
+	<div class="row">
+		<div class="col-lg-3"></div>
+		<div class="col-lg-6">
+			<form method="post">
+				<label>Email:</label>
+				<input class="form-control" type="text" asp-for="Email" />
+				<label>Password:</label>
+				<input class="form-control" type="text" asp-for="Password" />
+				<label>Username:</label>
+				<input class="form-control" type="password" asp-for="Username" />
+				<br />
+				<button class="btn btn-default" type="submit">Register</button>
+			</form>
+		</div>
+		<div class="col-lg-3"></div>
+	</div>
+</div>
+

@@ -1,0 +1,33 @@
+﻿@using KillerappToto.ViewModels.Account
+@model KillerappToto.ViewModels.Account.LoginViewModel
+
+@{
+	ViewData["Title"] = "Login";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+	<div class="row">
+		<img src="~/images/RockstarLogo.png" alt="Rockstars IT" class="logo__image" height="200" width="200" />
+		<div class="col-lg-3"></div>
+		<div class="col-lg-6 text-center">
+			<h1>Login</h1>
+		</div>
+		<div class="col-lg-3"></div>
+	</div>
+
+	<div class="row">
+		<div class="col-lg-3"></div>
+		<div class="col-lg-6">
+			<form method="post">
+				<label class="label_email">Email:</label>
+				<input class="form-control" type="text" asp-for="Email" />
+				<label class="label_Wachtwoord">Wachtwoord:</label>
+				<input class="form-control" type="password" asp-for="Password" />
+				<br />
+				<button class="btn btn-default" type="submit">Login</button>
+			</form>
+		</div>
+		<div class="col-lg-3"></div>
+	</div>
+</div>
