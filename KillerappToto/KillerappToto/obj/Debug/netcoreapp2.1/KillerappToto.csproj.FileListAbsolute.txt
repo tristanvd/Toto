@@ -39,3 +39,14 @@ C:\Users\trist\source\repos\KillerappToto\KillerappToto\bin\Debug\netcoreapp2.1\
 C:\Users\trist\source\repos\KillerappToto\KillerappToto\bin\Debug\netcoreapp2.1\Models.pdb
 C:\Users\trist\source\repos\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
 C:\Users\trist\source\repos\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.csprojAssemblyReference.cache
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.csproj.CoreCompileInputs.cache
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.RazorAssemblyInfo.cache
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.RazorAssemblyInfo.cs
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.AssemblyInfoInputs.cache
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.AssemblyInfo.cs
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.TagHelpers.input.cache
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.TagHelpers.output.cache
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.RazorCoreGenerate.cache
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.dll
+C:\Users\trist\OneDrive\Documenten\GitHub\Toto\KillerappToto\KillerappToto\obj\Debug\netcoreapp2.1\KillerappToto.pdb

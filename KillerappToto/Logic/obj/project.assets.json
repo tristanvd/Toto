@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trist\\source\\repos\\KillerappToto\\Logic\\Logic.csproj",
+      "projectUniqueName": "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Logic\\Logic.csproj",
       "projectName": "Logic",
-      "projectPath": "C:\\Users\\trist\\source\\repos\\KillerappToto\\Logic\\Logic.csproj",
+      "projectPath": "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Logic\\Logic.csproj",
       "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trist\\source\\repos\\KillerappToto\\Logic\\obj\\",
+      "outputPath": "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -745,11 +745,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\trist\\source\\repos\\KillerappToto\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\trist\\source\\repos\\KillerappToto\\Data\\Data.csproj"
+            "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Data\\Data.csproj"
             },
-            "C:\\Users\\trist\\source\\repos\\KillerappToto\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\trist\\source\\repos\\KillerappToto\\Models\\Models.csproj"
+            "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Models\\Models.csproj"
             }
           }
         }

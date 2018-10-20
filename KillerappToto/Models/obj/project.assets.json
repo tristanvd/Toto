@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trist\\source\\repos\\KillerappToto\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\trist\\source\\repos\\KillerappToto\\Models\\Models.csproj",
+      "projectPath": "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trist\\source\\repos\\KillerappToto\\Models\\obj\\",
+      "outputPath": "C:\\Users\\trist\\OneDrive\\Documenten\\GitHub\\Toto\\KillerappToto\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
